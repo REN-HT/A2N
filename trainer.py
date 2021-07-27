@@ -46,7 +46,7 @@ def train():
 
     # 定义网络，优化器，损失
     net = AAN()
-    net = transfer_model('best_2xAAN_weight.pth', net)
+    # net = transfer_model('best_2xAAN_weight.pth', net)
     # static_dic = torch.load('best_2xAAN_weight.pth')
     # net.load_state_dict(static_dic)
     optimizer = torch.optim.Adam(net.parameters(), lr=opt.lr)
