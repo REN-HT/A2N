@@ -3,7 +3,7 @@
 论文链接：https://arxiv.org/abs/2104.09497  
 ![image](https://github.com/REN-HT/A2N/blob/main/images/A2N.jpg)    
 ![image](https://github.com/REN-HT/A2N/blob/main/images/A2B.jpg)     
-## implement  
+## implementation  
 1. train.py文件用于训练，可单独执行  
 2. main.py文 用于测试，可单独执行  
 3. 注意数据载入路径更改  
