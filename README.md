@@ -1,5 +1,6 @@
 # A2N   
 ## architecture  
+论文链接：https://arxiv.org/abs/2104.09497  
 ![image](https://github.com/REN-HT/A2N/blob/main/images/A2N.jpg)    
 ![image](https://github.com/REN-HT/A2N/blob/main/images/A2B.jpg)     
 ## implement  
