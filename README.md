@@ -10,7 +10,7 @@ paper：https://arxiv.org/abs/2104.09497
 4. you need to change some parameters in AAN.py and DataSet.py for different scale 
 ## train   
 ![image](https://github.com/REN-HT/A2N/blob/main/images/aan_L1_2x_400.jpg)   
-说明：基于L1Loss的2倍训练曲线，400个epoch,验证集为div2k100张验证集其中5张，每张裁剪5张，一共25张组成。  
+validation set: select 5 images from div2k 100 validation set, then clipping them to 25 images; 
 ## result
 ![image](https://github.com/REN-HT/A2N/blob/main/images/psnr.jpg)    
 ## display  
