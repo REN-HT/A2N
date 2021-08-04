@@ -1,5 +1,5 @@
 # A2N   
-## architecture  
+## architecture
 paper：https://arxiv.org/abs/2104.09497  
 ![image](https://github.com/REN-HT/A2N/blob/main/images/A2N.jpg)    
 ![image](https://github.com/REN-HT/A2N/blob/main/images/A2B.jpg)     
