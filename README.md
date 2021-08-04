@@ -14,7 +14,10 @@ paper：https://arxiv.org/abs/2104.09497<br>
 ![image](https://github.com/REN-HT/A2N/blob/main/images/aan_L1_2x_400.jpg)<br>
 validation set: select 5 images from div2k 100 validation set, then clipping them to 25 images<br>
 ## result
-![image](https://github.com/REN-HT/A2N/blob/main/images/psnr.jpg)<br>
+|        |    Set5(PSNR/SSIM)    |    Set14(PSNR/SSIM)    |
+|--------|-----------------------|------------------------|
+| 2x     |     38.088/0.9610     |      33.837/0.9197     |
+| 4x     |     32.269/0.8959     |      28.750/0.7868     |
 ## display
 ### 2x
 ![image](https://github.com/REN-HT/A2N/blob/main/images/2x.png)<br>
