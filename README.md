@@ -1,4 +1,6 @@
 # A2N   
+## my blog
+[blog](https://www.zhihu.com/people/longing-93-89/posts "zhihu")<br>
 ## architecture
 paper：https://arxiv.org/abs/2104.09497<br>
 ![image](https://github.com/REN-HT/A2N/blob/main/images/A2N.jpg)<br>  
